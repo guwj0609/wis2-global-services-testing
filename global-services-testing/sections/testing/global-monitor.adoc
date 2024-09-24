@@ -1,4 +1,4 @@
-[[global-monitor-testing]]
+[[global-monitor-testing]]==
 
 === Global Monitor Service testing
 
